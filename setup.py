@@ -9,7 +9,7 @@ setup(name='add_free_announcers',
       description='Add free announcers to torrent files',
       author='cmd410, belibak, Vftdan',
       url='https://github.com/cmd410/add-free-announcers',
-      packages=['add_announcers'],
+      packages=['add_free_announcers'],
       entry_points={
           'console_scripts': [
                 'add-free-announcers = add_announcers:main',
